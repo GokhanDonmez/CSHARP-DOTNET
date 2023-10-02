@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders1NonGeneric", "Ders1NonGeneric\Ders1NonGeneric.csproj", "{41293698-ABA2-417C-BFF7-C447D88DB0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders2Generic", "Ders2Generic\Ders2Generic.csproj", "{8237D26E-FF30-4780-9590-805423829C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirasArayuzPolymorhism", "MirasArayuzPolymorhism\MirasArayuzPolymorhism.csproj", "{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{749964E9-D988-4FE4-93F5-EDD98E69578F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41293698-ABA2-417C-BFF7-C447D88DB0E6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{41293698-ABA2-417C-BFF7-C447D88DB0E6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{41293698-ABA2-417C-BFF7-C447D88DB0E6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{41293698-ABA2-417C-BFF7-C447D88DB0E6}.Release|anycpu.Build.0 = Release|anycpu
+		{8237D26E-FF30-4780-9590-805423829C78}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8237D26E-FF30-4780-9590-805423829C78}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8237D26E-FF30-4780-9590-805423829C78}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8237D26E-FF30-4780-9590-805423829C78}.Release|anycpu.Build.0 = Release|anycpu
+		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C428E074-1697-4BDF-9641-2722A3B6FC58}
+	EndGlobalSection
+EndGlobal

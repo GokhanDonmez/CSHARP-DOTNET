@@ -1,0 +1,14 @@
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/bin/Debug/net7.0/MirasArayuzPolymorhism
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/bin/Debug/net7.0/MirasArayuzPolymorhism.deps.json
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/bin/Debug/net7.0/MirasArayuzPolymorhism.runtimeconfig.json
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/bin/Debug/net7.0/MirasArayuzPolymorhism.dll
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/bin/Debug/net7.0/MirasArayuzPolymorhism.pdb
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.AssemblyInfoInputs.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.AssemblyInfo.cs
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.csproj.CoreCompileInputs.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.dll
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/refint/MirasArayuzPolymorhism.dll
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.pdb
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/MirasArayuzPolymorhism.genruntimeconfig.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/MirasArayuzPolymorhism/obj/Debug/net7.0/ref/MirasArayuzPolymorhism.dll

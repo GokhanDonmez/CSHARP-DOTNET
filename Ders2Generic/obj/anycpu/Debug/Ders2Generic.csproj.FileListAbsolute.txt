@@ -1,0 +1,6 @@
+/Users/gokhandonmez/Projects/CihanHocaCsharp/Ders2Generic/bin/Debug/Ders2Generic.exe
+/Users/gokhandonmez/Projects/CihanHocaCsharp/Ders2Generic/bin/Debug/Ders2Generic.pdb
+/Users/gokhandonmez/Projects/CihanHocaCsharp/Ders2Generic/obj/anycpu/Debug/Ders2Generic.csproj.AssemblyReference.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/Ders2Generic/obj/anycpu/Debug/Ders2Generic.csproj.CoreCompileInputs.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/Ders2Generic/obj/anycpu/Debug/Ders2Generic.exe
+/Users/gokhandonmez/Projects/CihanHocaCsharp/Ders2Generic/obj/anycpu/Debug/Ders2Generic.pdb
