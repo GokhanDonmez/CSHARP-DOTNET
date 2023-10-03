@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çöz
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{2B0C886B-176C-42EC-88AC-938FE3D5556F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -32,6 +34,10 @@ Global
 		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Debug|anycpu.Build.0 = Debug|Any CPU
 		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Release|anycpu.ActiveCfg = Release|Any CPU
 		{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}.Release|anycpu.Build.0 = Release|Any CPU
+		{2B0C886B-176C-42EC-88AC-938FE3D5556F}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{2B0C886B-176C-42EC-88AC-938FE3D5556F}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{2B0C886B-176C-42EC-88AC-938FE3D5556F}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{2B0C886B-176C-42EC-88AC-938FE3D5556F}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/bin/Debug/net7.0/GenericClass
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/bin/Debug/net7.0/GenericClass.deps.json
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/bin/Debug/net7.0/GenericClass.runtimeconfig.json
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/bin/Debug/net7.0/GenericClass.dll
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/bin/Debug/net7.0/GenericClass.pdb
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.AssemblyInfoInputs.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.AssemblyInfo.cs
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.csproj.CoreCompileInputs.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.dll
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/refint/GenericClass.dll
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.pdb
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/GenericClass.genruntimeconfig.cache
+/Users/gokhandonmez/Projects/CihanHocaCsharp/GenericClass/obj/Debug/net7.0/ref/GenericClass.dll

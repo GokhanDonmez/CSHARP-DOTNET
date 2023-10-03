@@ -1,8 +1,8 @@
 ﻿using System;
 namespace MirasArayuzPolymorhism
 {
-
-	public enum BreadType
+    
+    public enum BreadType
 	{
 		Beyaz=1,
 		Kepek=2,
@@ -19,6 +19,7 @@ namespace MirasArayuzPolymorhism
 
 	public class Bread : Product
 	{
+        
 		public BreadType Type { get; set; }
 
 		public Gramaj Gram { get; set; }

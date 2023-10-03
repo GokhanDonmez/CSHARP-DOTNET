@@ -1,23 +1,32 @@
-﻿<Properties StartupConfiguration="{CCBB44E9-2FE1-45C4-9FCC-4707451785E5}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.Ders2Generic PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.MirasArayuzPolymorhism PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Ders1NonGeneric PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{2B0C886B-176C-42EC-88AC-938FE3D5556F}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.GenericClass PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MirasArayuzPolymorhism/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericClass/Program.cs">
     <Files>
-      <File FileName="MirasArayuzPolymorhism/Program.cs" Line="16" Column="1" />
+      <File FileName="MirasArayuzPolymorhism/Program.cs" />
+      <File FileName="MirasArayuzPolymorhism/Product.cs" />
+      <File FileName="MirasArayuzPolymorhism/Bread.cs" />
+      <File FileName="MirasArayuzPolymorhism/Tekstil.cs" />
+      <File FileName="MirasArayuzPolymorhism/Basket.cs" />
+      <File FileName="GenericClass/Program.cs" Line="57" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CihanHocaCsharp" expanded="True">
-            <Node name="Ders1NonGeneric" expanded="True" />
+            <Node name="Ders2Generic" expanded="True" />
+            <Node name="GenericClass" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MirasArayuzPolymorhism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ders1NonGeneric PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ders2Generic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MultiItemStartupConfigurations />
 </Properties>

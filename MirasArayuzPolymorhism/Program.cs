@@ -7,7 +7,7 @@ namespace MirasArayuzPolymorhism
         {
 
             Basket basket = new Basket();
-
+            
             Bread ekmek = new Bread(BreadType.Odun);
             Tekstil tekstil = new Tekstil();
             tekstil.Marka = TekstilMarka.Beymen;
